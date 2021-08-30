@@ -2,5 +2,9 @@ Bonjour Git!!!!
 
 git init : Espace de travail
 git add: ajout d'un fichier (staging area) ou ajout des modifications dans l'espace de travail
-git commit: Enregistrer dans le repository (on peut l'utiliser après)
+git commit: Enregistrer dans le repository (on peut l'utiliser après git commit --m "message")
 git status: permet de voir l'état du fichier
+git log: lister les différents commits
+.gitignore: pour masquer un fichier git
+
+Ajout d'un nouveau fichier
