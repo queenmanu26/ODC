@@ -6,5 +6,7 @@ git commit: Enregistrer dans le repository (on peut l'utiliser après git commit
 git status: permet de voir l'état du fichier
 git log: lister les différents commits
 .gitignore: pour masquer un fichier git
+git commit -- amend : pour ajouter un commit précédent
+git rm fichier: retirer un fichier du répertoire de git et rm sans git c'est effacé un fichier
 
 Ajout d'un nouveau fichier
